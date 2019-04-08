@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[![Build Status](https://dev.azure.com/rajeevsharma0058/rajeevsharma/_apis/build/status/rajeevAgilehub.test-cicd?branchName=master)](https://dev.azure.com/rajeevsharma0058/rajeevsharma/_build/latest?definitionId=1&branchName=master)
+
 ## Available Scripts
 
 In the project directory, you can run:
